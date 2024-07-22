@@ -1,0 +1,16 @@
+:root{
+    --bg-primary:#3344ff;
+    --text-primary:#fff;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.content{
+    width: 100vW;
+    height: 100vh;
+    background-color: var(--bg-primary);
+
+}
