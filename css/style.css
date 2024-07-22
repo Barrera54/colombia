@@ -1,6 +1,7 @@
 :root{
     --bg-primary:red;
     --text-primary:yellow;
+
 }
 
 *{
@@ -12,5 +13,7 @@
     width: 100vW;
     height: 100vh;
     background-color: var(--bg-primary);
-
 }
+
+
+
